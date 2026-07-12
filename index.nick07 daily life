@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>7NICK | Official Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+</head>
+
+<body>
+
+<div class="background"></div>
+
+<header>
+
+<nav>
+
+<h1>7NICK</h1>
+
+<ul>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#skills">Skills</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-content">
+
+<img src="https://placehold.co/220x220/png?text=7NICK"
+class="profile">
+
+<h2>DURGESH SONAYYA</h2>
+
+<h3>Quantitative Finance Student | Model | Content Creator | Photographer</h3>
+
+<p>
+
+Hello.
+
+I am a Quantitative Finance and Risk Management Science Student at ST XAVIER'S UNIVERSITY MUMBAI.
+
+Beyond academics, I am passionate about art, philosophy, literature, technology, filmmaking, music and psychology.
+
+</p>
+
+<div class="buttons">
+
+<a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=k5tfmaa">
+Instagram
+</a>
+
+<a href="https://youtube.com/@thvnick?si=hT2VlET_II3KXXap">
+YouTube
+</a>
+
+<a href="https://7thenick.github.io">
+GitHub
+</a>
+
+</div>
+
+</div>
+
+</section>
