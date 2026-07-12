@@ -1,0 +1,100 @@
+/* ===== Footer ===== */
+
+footer{
+text-align:center;
+padding:40px 20px;
+margin-top:50px;
+color:#94a3b8;
+font-size:15px;
+border-top:1px solid rgba(255,255,255,.1);
+}
+
+/* ===== Animations ===== */
+
+@keyframes fadeUp{
+from{
+opacity:0;
+transform:translateY(40px);
+}
+to{
+opacity:1;
+transform:translateY(0);
+}
+}
+
+.hero,
+.section,
+.card{
+animation:fadeUp .8s ease;
+}
+
+/* ===== Scrollbar ===== */
+
+::-webkit-scrollbar{
+width:10px;
+}
+
+::-webkit-scrollbar-track{
+background:#0f172a;
+}
+
+::-webkit-scrollbar-thumb{
+background:#38bdf8;
+border-radius:10px;
+}
+
+::-webkit-scrollbar-thumb:hover{
+background:#0284c7;
+}
+
+/* ===== Mobile Responsive ===== */
+
+@media (max-width:768px){
+
+nav{
+flex-direction:column;
+gap:15px;
+}
+
+nav ul{
+flex-wrap:wrap;
+justify-content:center;
+gap:15px;
+}
+
+.hero h2{
+font-size:30px;
+}
+
+.hero h3{
+font-size:18px;
+}
+
+.hero p{
+font-size:16px;
+}
+
+.profile{
+width:160px;
+height:160px;
+}
+
+.buttons{
+flex-direction:column;
+align-items:center;
+}
+
+.buttons a{
+width:90%;
+text-align:center;
+}
+
+.section h2{
+font-size:30px;
+}
+
+.cards{
+grid-template-columns:1fr;
+}
+
+}
