@@ -1,0 +1,46 @@
+<!-- CONTACT SECTION -->
+
+<section id="contact" class="section">
+
+<h2>Contact Me</h2>
+
+<div class="cards">
+
+<a class="card" href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=k5tfmaa" target="_blank">
+📷 Instagram
+</a>
+
+<a class="card" href="https://youtube.com/@thvnick?si=hT2VlET_II3KXXap" target="_blank">
+▶️ YouTube
+</a>
+
+<a class="card" href="https://7thenick.github.io" target="_blank">
+💻 GitHub
+</a>
+
+<a class="card" href="https://x.com/THVNIICK" target="_blank">
+🐦 X (Twitter)
+</a>
+
+<a class="card" href="https://www.facebook.com/share/1DR1ycabdQ/" target="_blank">
+📘 Facebook
+</a>
+
+<a class="card" href="mailto:thvnick007@gmail.com">
+📧 Email
+</a>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2026 7NICK | Designed by Durgesh Sonayya</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
