@@ -1,4 +1,68 @@
-body {
-  font-family: Arial, sans-serif;
-  text-align: center;
+/* ===== THV NICK PREMIUM STYLE - PART 1 ===== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:'Poppins',sans-serif;
+    background:#0d0d0d;
+    color:#ffffff;
+    text-align:center;
+    line-height:1.7;
+}
+
+.hero{
+    padding:60px 20px 40px;
+    background:linear-gradient(135deg,#000,#1a1a1a);
+}
+
+.profile-img{
+    width:170px;
+    height:170px;
+    border-radius:50%;
+    border:5px solid #00e5ff;
+    object-fit:cover;
+    box-shadow:0 0 25px #00e5ff;
+    margin-bottom:20px;
+}
+
+.hero h1{
+    font-size:48px;
+    font-weight:700;
+    margin-bottom:10px;
+}
+
+.hero h2{
+    font-size:30px;
+    color:#00e5ff;
+    margin-bottom:15px;
+}
+
+.hero p{
+    max-width:700px;
+    margin:10px auto;
+    color:#cccccc;
+    font-size:18px;
+}
+
+.about,
+.social{
+    padding:60px 20px;
+}
+
+.about h2,
+.social h2{
+    font-size:38px;
+    margin-bottom:25px;
+    color:#00e5ff;
+}
+
+.about p{
+    max-width:850px;
+    margin:auto;
+    font-size:18px;
+    color:#dddddd;
 }
