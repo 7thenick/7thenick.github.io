@@ -22,5 +22,37 @@ document.addEventListener("DOMContentLoaded", () => {
       }, 200);
     });
   }
+7LIFESTYLE
+────────────────────────
 
+DURGESH SONAYYA
+
+Model • Creator • Photographer • Filmmaker
+
+[Portfolio]
+[Daily Life]
+[Photography]
+[Films]
+[Music]
+[Projects]
+
+ABOUT
+Apne baare me short introduction.
+
+GALLERY
+Best photos aur videos.
+
+WORK
+• Modeling
+• Content Creation
+• Brand Collaborations
+• Photography
+• Filmmaking
+
+CONTACT
+Instagram
+Email
+WhatsApp
+
+© 2026 7LIFESTYLE
 });
